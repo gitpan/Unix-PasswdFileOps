@@ -1,4 +1,4 @@
-Unix-PasswdFileOps version 0.02
+Unix-PasswdFileOps version 0.4
 ============================
 
 The README is used to introduce the module and provide instructions on
@@ -29,7 +29,7 @@ COPYRIGHT AND LICENCE
 
 Put the correct copyright and licence information here.
 
-Copyright (C) 2006 by Ben Maynard <bmaynard@cpan.org> <http://www.webcentric-hosting.com>
+Copyright (C) 2006-2011 by Ben Maynard <bmaynard@cpan.org> <http://www.benmaynard.com>
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.7 or,

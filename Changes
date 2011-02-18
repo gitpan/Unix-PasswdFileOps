@@ -4,3 +4,6 @@ Revision history for Perl extension Unix::PasswdFileOps.
 	- original version; created by h2xs 1.23 with options
 		-XA -n Unix::PasswdFileOps
 
+0.4   Fri Feb 18 09:40:21 2011
+	- Changed formatting and documentation
+
